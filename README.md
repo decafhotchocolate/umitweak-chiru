@@ -1,5 +1,5 @@
 # umitweak-chiru
-Archive of Umitweak Chiru, a (outdated) console conversion for Umineko no Naku Koro Ni Chriu
+Archive of Umitweak Chiru, a (outdated) console conversion for Umineko no Naku Koro Ni Chiru
 
 I wish to stress, I had zero hand in the creation of this patch. This is purely for archival purposes.
 
